@@ -1,5 +1,3 @@
 # odin-recipes
 
-43% TheOdinProject "70% HTML, 40% CSS, 25% JavaScript"
-
-Don't stop believin!
+A website with 3 recipes
