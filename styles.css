@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+.title {
+    color: orangered; 
+    font-size: 45px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+}
+
+.img {
+    width: 250px;
+    height: auto;
+}
+
+.subtitle {
+    color: orangered;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ; 
+}
+
+.list {
+    color:green; 
+    font-size: 22px; 
+}
+
